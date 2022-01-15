@@ -210,12 +210,12 @@ a{
 
 
 /* footer */
+
 footer{
     text-align: center;
     padding: 30px 0;
     background-color: #040720;
     color: white;
-    /* margin-top: ; */
 }
 .f-logo{
     display: flex;
