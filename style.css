@@ -225,11 +225,7 @@ footer{
     color: white;
     background-color: #242B2E;
     border-radius: 50%;
-    width: 30px;
-    height: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    padding: 10px;
     margin: 10px 5px ;
 }
 
